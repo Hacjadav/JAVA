@@ -3,3 +3,5 @@
 [Colorremove]->(https://github.com/Hacjadav/JAVA/blob/main/1b.ArrayList/Colorremove.png)
 
 [Clolorsearch]->(https://github.com/Hacjadav/JAVA/blob/main/1b.ArrayList/Colorsearch.png)
+
+[colorsorted]->(https://github.com/Hacjadav/JAVA/blob/main/1b.ArrayList/Colorsorted.png)
