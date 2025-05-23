@@ -2,7 +2,7 @@
 
 [NullOrWhitespaceCheck]->(https://github.com/Hacjadav/JAVA/blob/main/3b.String_Exercise/nullorwhitespace1.png)
 
-[ReverseString]->(https://github.com/Hacjadav/JAVA/blob/main/3b.String_Exercise/StringReverse1.png)
+[ReverseString]->(https://github.com/Hacjadav/JAVA/blob/main/3b.String_Exercise/reverse.1.png)
 
 [SubstringCounter]->(https://github.com/Hacjadav/JAVA/blob/main/3b.String_Exercise/Substring1.png)
 
