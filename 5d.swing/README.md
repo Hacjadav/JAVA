@@ -1,0 +1,1 @@
+[ColorTabbedPaneDemo output]->(https://github.com/Hacjadav/JAVA/blob/main/5d.swing/Cyan.png,https://github.com/Hacjadav/JAVA/blob/main/5d.swing/magenta.png,https://github.com/Hacjadav/JAVA/blob/main/5d.swing/yellow.png)
