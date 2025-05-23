@@ -1,0 +1,1 @@
+[8b.jdbc outputlink]->(https://github.com/Hacjadav/JAVA/blob/main/8b.jdbc/8B%20(1).png  ,https://github.com/Hacjadav/JAVA/blob/main/8b.jdbc/update(2).png  ,https://github.com/Hacjadav/JAVA/blob/main/8b.jdbc/update(3).png)
