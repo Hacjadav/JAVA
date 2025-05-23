@@ -6,4 +6,4 @@
 
 [Colorsorted]->(https://github.com/Hacjadav/JAVA/blob/main/1b.ArrayList/Colorsorted1.png)
 
-[Colorsublist]->(https://github.com/Hacjadav/JAVA/blob/main/1b.ArrayList/Colorsublist.png)
+[Colorsublist]->(https://github.com/Hacjadav/JAVA/blob/main/1b.ArrayList/Colorsublist1.png)
