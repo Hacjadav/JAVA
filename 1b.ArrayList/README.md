@@ -2,6 +2,8 @@
 
 [Colorremove]->(https://github.com/Hacjadav/JAVA/blob/main/1b.ArrayList/Colorremove.png)
 
-[Clolorsearch]->(https://github.com/Hacjadav/JAVA/blob/main/1b.ArrayList/Colorsearch.png)
+[Colorsearch]->(https://github.com/Hacjadav/JAVA/blob/main/1b.ArrayList/Colorsearch.png)
 
-[colorsorted]->(https://github.com/Hacjadav/JAVA/blob/main/1b.ArrayList/Colorsorted.png)
+[Colorsorted]->(https://github.com/Hacjadav/JAVA/blob/main/1b.ArrayList/Colorsorted.png)
+
+[Colorsublist]->(https://github.com/Hacjadav/JAVA/blob/main/1b.ArrayList/Colorsublist.png)
